@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hola 👋
 
+Mi nombre es Jhonson Ozuna. Soy programador en C, me gusta mucho programar 😄.
+
+🔭 Actualmente trabajo en una empresa de desarrollo de widgets para libros digitales, pero espero que algún día
+poder dedicar más tiempo a mis proyectos de git y al desarrollo de video juegos.
+
+Prueba unos de mis juegos: https://jhongames.com
 <!--
 **hbiblia/hbiblia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

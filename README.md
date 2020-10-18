@@ -2,7 +2,7 @@
 
 Mi nombre es Jhonson Ozuna. Soy programador en C, me gusta mucho programar 😄.
 
-🔭 Actualmente trabajo en una empresa de desarrollo de widgets para libros digitales, pero espero que algún día
+🔭 Actualmente trabajo en una empresa de desarrollo de widgets para libros digitales, espero algún día
 poder dedicar más tiempo a mis proyectos de git y al desarrollo de video juegos.
 
 Prueba unos de mis juegos: https://jhongames.com

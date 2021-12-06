@@ -2,7 +2,7 @@
 
 Mi nombre es Jhonson Ozuna. Soy programador.
 
-🔭 Actualmente trabajo en una empresa de desarrollo de widgets para libros digitales.
+🔭 Actualmente trabajo en el proyecto EGDK.
 
 Prueba unos de mis juegos: https://jhongames.com
 <!--

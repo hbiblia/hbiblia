@@ -1,6 +1,4 @@
-### Hola 👋
-
-Mi nombre es Jhonson Ozuna. Soy programador.
+### Hola 👋, soy slam el programador.
 
 🔭 Actualmente trabajo en el proyecto EGDK.
 

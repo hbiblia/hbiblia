@@ -1,8 +1,6 @@
 ### Hola 👋, soy slam el programador.
 
-🔭 Actualmente trabajo en el proyecto EGDK.
-
-Prueba unos de mis juegos: https://jhongames.com
+https://jhongames.com
 <!--
 **hbiblia/hbiblia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

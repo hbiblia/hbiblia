@@ -4,7 +4,7 @@
 ### Hola 👋, soy slam el programador.
 
 - Web - https://jhongames.com
-- Twitch - https://www.twitch.tv/slam01_
+- Twitch - https://www.twitch.tv/hbiblia
 
 <!--
 **hbiblia/hbiblia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

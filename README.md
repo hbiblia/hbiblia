@@ -1,6 +1,11 @@
+![portada_small](https://user-images.githubusercontent.com/1939353/209717791-0353dde6-1805-4f4e-8d58-0260ae78edf8.jpg)
+
+
 ### Hola 👋, soy slam el programador.
 
-https://jhongames.com
+- Web - https://jhongames.com
+- Twitch - https://www.twitch.tv/slam01_
+
 <!--
 **hbiblia/hbiblia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

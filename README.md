@@ -3,7 +3,7 @@
 
 ### Hola 👋, soy slam el programador.
 
-- Web - https://jhongames.com
+- Web - https://549gamestudio.com/
 - Twitch - https://www.twitch.tv/hbiblia
 
 <!--

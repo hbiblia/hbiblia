@@ -5,6 +5,7 @@
 
 - Web - https://549gamestudio.com/
 - Twitch - https://www.twitch.tv/hbiblia
+- Gobu - https://gobuengine.org
 
 <!--
 **hbiblia/hbiblia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

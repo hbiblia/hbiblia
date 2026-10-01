@@ -4,8 +4,6 @@
 
 💬 https://www.twitch.tv/hbiblia
 
-🔭 https://gobuengine.org
-
 <!--
 **hbiblia/hbiblia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
